@@ -14,4 +14,6 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/cbt",
         publish = true
 )
-public class CukesRunner {}
+public class CukesRunner {
+
+}
